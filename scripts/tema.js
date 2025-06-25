@@ -35,7 +35,7 @@ function alterarTema(botao, tema) {
 	botao.classList.add('active');
 	
 	//alterar imagem
-	temaImg.src = `/imagens/${tema}.png`;
+	temaImg.src = `./imagens/${tema}.png`;
 	
 	//alterar texto
 	switch (tema) {

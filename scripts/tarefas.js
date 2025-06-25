@@ -108,7 +108,7 @@ function formatTask(task) {
 	}
 
 	const img = document.createElement('img');
-	img.setAttribute('src', '/imagens/edit.png');
+	img.setAttribute('src', './imagens/edit.png');
 
 	button.append(img);
 	li.append(svg);
