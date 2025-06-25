@@ -12,13 +12,13 @@ let contagem;
 let segundosRestante;
 
 //sons
-const audioPlay = new Audio('/sons/play.wav');
+const audioPlay = new Audio('./sons/play.wav');
 audioPlay.volume = 0.33;
 
-const audioPause = new Audio('/sons/pause.mp3');
+const audioPause = new Audio('./sons/pause.mp3');
 audioPause.volume = 0.33;
 
-const audioEnd = new Audio('/sons/beep.mp3');
+const audioEnd = new Audio('./sons/beep.mp3');
 audioEnd.volume = 0.33;
 
 //execução inicial

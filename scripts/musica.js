@@ -2,7 +2,7 @@
 const checkboxMusica = document.getElementById('alternar-musica');
 
 //musica
-const musica = new Audio('/sons/luna-rise-part-one.mp3');
+const musica = new Audio('./sons/luna-rise-part-one.mp3');
 
 //ativa o loop da musica
 musica.loop = true;
