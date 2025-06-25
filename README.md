@@ -17,6 +17,7 @@ Este é um projeto de front-end desenvolvido ao longo da formação **Desenvolvi
 - **Contador Regressivo:** contador regressivo com tempo pre-definidos para cada fase da Técnica Pomodoro. O usuário tem as opções de iniciar, pausar e cancelar a contagem.
 - **Música:** O usuáio pode reproduzir, através de um checkbox, uma música ambiente para auxiliar na aplicação da técnica.
 - **Lista de tarefas:** O usuário pode listar as tarefas que deve realizar, podendo escolher uma como "tarefa em andamento", a qual o usuário tentará realizar durante um periodo de foco. As tarefas são salvas em LocalStorage, e o usuário tem as opções de adicionar, editar e excluir tarefas.
+- **Efeitos sonoros:** Efeitos sonoros clicar em botões ou alternar entre os modos do pomodoro.
 
 ## Técnicas e tecnologias utilizadas:
 - **HTML** - Para estrutura e marcação dos elementos da página.
